@@ -1,11 +1,5 @@
-# Teem_sqrt4469
-# Roster
-- Yuhang Pan (PM): API Requests, Set Up Database
-- Matthew Ciu: Game Logic
-- Michelle Chen: Bootstrap, HTML Templates
-- Thomas Mackey: Game Logic
 # Description
-Our website is a local two-player Pokemon showdown game, where we use anime characters and superheroes instead of Pokemons using the Jikan API and the Superheroes API. For the in-game stats, we will get data from those API’s and convert those info into in-game stats. Those stats will be assigned to random Pokemon moves and be given to the superheroes and anime characters.
+Hero Wars is a local two-player Pokemon showdown game, where we use anime characters and superheroes instead of Pokemons using the Jikan API and the Superheroes API. For the in-game stats, we will get data from those API’s and convert those info into in-game stats. Those stats will be assigned to random Pokemon moves and be given to the superheroes and anime characters.
 # Install Guide
 1. Clone the repository
 ```
